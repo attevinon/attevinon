@@ -6,11 +6,11 @@ My main soft skills (imho) are staying on task, desire to learn and logical thin
 ✨ Tools I use:
 - C# (often C# 7.3, but I know about 10.0 features)
 - Visual Studio 2020/2022
-- Paint tool SAI 2 for drawing icons, images, etc
 - Windows Forms
 - Xamarin
 - WPF (although i haven't uploaded any projects made on that platform yet)
 - SQLite (MS SQL sometimes)
+- Paint tool SAI 2 for drawing icons, images, etc
 
 I had some experience with ASP.NET Core and Unity 3D as well 🎮
 
