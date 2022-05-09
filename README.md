@@ -1,6 +1,4 @@
 ### Hello 😊
-
-My name is Violetta 
 Pronouns: she/her 
 
 My main soft skills (imho) are staying on task, desire to learn and logical thinking ✌
