@@ -4,7 +4,7 @@ Pronouns: she/her
 My main soft skills are staying on task, desire to learn and logical thinking ✌
 
 ✨ Tools I use:
-- C# (often C# 7.3, but I know about 10.0 features)
+- C# 7-10
 - Visual Studio 2020/2022
 - Unity 3D (2019.2 + )
 - Windows Forms
