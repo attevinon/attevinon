@@ -5,7 +5,7 @@ My main soft skills are staying on task, desire to learn and logical thinking âœ
 
 âœ¨ Tools I use:
 - C# 7-10
-- Visual Studio 2020/2022
+- Visual Studio 2022
 - Unity 3D (2019.2 + )
 - Windows Forms
 - Xamarin
