@@ -7,7 +7,6 @@ My main soft skills are staying on task, desire to learn and logical thinking âœ
 - C# 7-10
 - Visual Studio 2022
 - Unity 3D (2019.2 + )
-- Windows Forms
 - Xamarin
 - Krita and SAI2 for drawing icons, images, etc
 
