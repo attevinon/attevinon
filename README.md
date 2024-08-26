@@ -9,9 +9,7 @@ My main soft skills are staying on task, desire to learn and logical thinking âœ
 - Unity 3D (2019.2 + )
 - Windows Forms
 - Xamarin
-- WPF (although i haven't uploaded any projects made on that platform yet)
-- SQLite (MS SQL sometimes)
-- Paint tool SAI 2 for drawing icons, images, etc
+- Krita and SAI2 for drawing icons, images, etc
 
 <!--
 **attevinon/attevinon** is a âœ¨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
