@@ -1,5 +1,4 @@
 ### Hello 😊
-Pronouns: she/her 
 
 My main soft skills are staying on task, desire to learn and logical thinking ✌
 
