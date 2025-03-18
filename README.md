@@ -5,8 +5,8 @@ My main soft skills are staying on task, desire to learn and logical thinking âœ
 âœ¨ Tools I use:
 - C# 7-10
 - Visual Studio 2022
+- Rider
 - Unity 3D (2019.2 + )
-- Xamarin
 - Krita and SAI2 for drawing icons, images, etc
 
 <!--
